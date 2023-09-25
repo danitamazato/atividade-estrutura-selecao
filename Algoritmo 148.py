@@ -8,7 +8,7 @@ if op == 1:
         print('\n O valor da passagem de ida-volta para R.Norte: R$950.00')
 elif op == 2:
     if iv == 1:
-        print ("\n O valor da passagem de ida-volta para R.Nordeste: R$350.00")
+        print ("\n O valor da passagem de ida para R.Nordeste: R$350.00")
     else:
         print('\n O valor da passagem de ida-volta para R.Nordeste: R$650.00')
 elif op == 3:
